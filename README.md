@@ -1,0 +1,2 @@
+# SmartExpenseTracker
+new .net project
